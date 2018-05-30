@@ -6,5 +6,11 @@ class Document {
   }
 }
 
+class Employee {
+  constructor (employeeName) {
+    this.name = employeeName;
+  }
+}
+
 
 
